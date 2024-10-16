@@ -1,1 +1,1 @@
-217.144.185.205/32 #make sure to use forward slash for the subnet
+217.144.185.205/32 #make sure to use forward slash for the subnet. This will block all incoming and outgoing traffic to the IPs listed.
