@@ -2,4 +2,7 @@
 45.14.245.134/32 #Stark Industries Netherlands
 85.209.154.170/32 #Stark Industries Germany
 85.208.109.126/32 #Austria
-85.209.154.153/32 #Germany
+103.113.70.145/32 #US Stark Industry Solutions
+94.131.122.221/32 #UK Stark Industry Solutions
+85.209.154.153/32 #Germany Stark Industry Solutions
+45.144.28.164/32 #Netherlands Stark Industry Solutions
