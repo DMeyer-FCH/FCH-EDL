@@ -6,3 +6,5 @@
 94.131.122.221/32 #UK Stark Industry Solutions
 85.209.154.153/32 #Germany Stark Industry Solutions
 45.144.28.164/32 #Netherlands Stark Industry Solutions
+173.239.0.0/16 #LogicWeb Datacenter New Jersey
+138.124.0.0/16 #US Stark Industry New Jersey
