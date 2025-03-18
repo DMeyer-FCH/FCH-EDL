@@ -1,27 +1,28 @@
 217.144.185.205/32 #make sure to use forward slash for the subnet. This will block all incoming and outgoing traffic to the IPs listed.
-45.14.245.134/32 #Stark Industries Netherlands
 85.209.154.170/32 #Stark Industries Germany
 85.208.109.126/32 #Austria
 103.113.70.145/32 #US Stark Industry Solutions
 94.131.122.221/32 #UK Stark Industry Solutions
 85.209.154.153/32 #Germany Stark Industry Solutions
+45.14.245.134/32 #Stark Industries Netherlands
+45.131.0.0/16
 45.144.28.164/32 #Netherlands Stark Industry Solutions
+45.146.54.0/24
 173.239.0.0/16 #LogicWeb Datacenter New Jersey
 138.124.0.0/16 #US Stark Industry New Jersey
 136.144.35.0/24
 91.192.232.0/24
 138.124.0.0/16
-45.131.0.0/16
 103.113.70.147/32
+104.234.19.4/32
 85.208.109.162/32
 91.193.232.0/24
 172.98.33.230/32
 216.21.212.74/32
-45.146.54.26/32
-45.146.54.30/32
 136.144.19.87/32
 172.98.33.225/32
 136.144.19.0/24
 185.223.152.0/24
+193.56.116.0/24
 194.54.156.32/32
 216.24.212.0/24
