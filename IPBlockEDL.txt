@@ -8,6 +8,7 @@
 45.131.0.0/16
 45.144.28.164/32 #Netherlands Stark Industry Solutions
 45.146.54.0/24
+45.146.55.0/24
 173.239.0.0/16 #LogicWeb Datacenter New Jersey
 138.124.0.0/16 #US Stark Industry New Jersey
 136.144.35.0/24
